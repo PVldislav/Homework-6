@@ -1,0 +1,9 @@
+body {
+    background: rgb(239, 255, 237);
+}
+
+table {
+    max-width: 600px;
+    border-collapse: collapse ;
+    width: 100%;
+}
